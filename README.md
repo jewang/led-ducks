@@ -1,10 +1,9 @@
-led-ducks
+led-ducks: Baby Duck LED Pendants
 =========
 
+These baby duck LED pendants are a little art project that I did with [David Kaufman](https://github.com/dakaufma) with help from [Alex Willisson](https://github.com/AlexWillisson). It is inspired by and heavily adapted from [Winnie Tong](http://happynerdcore.com)'s chibi skull LED pendant design. The duck image comes from [VectorInk](http://vectorink.com/toy/rubber-duck-0078/).
 
-Hello! This is a little art project that I did with [David Kaufman](https://github.com/dakaufma) with help from [Alex Willisson](https://github.com/AlexWillisson). It was inspired by [Winnie Tong](http://happynerdcore.com)'s Chibi Skull LED Pendant.
-
-The left duck in the below image is the finished product. The right duck was our initial prototype.
+In the below image, the left duck is the finished product. The right duck was our initial prototype.
 ![GIF animation of a pendant in action](photos/ducks.gif)
 
 
@@ -16,7 +15,6 @@ Four pieces of acrylic come together to make this duck. The idea is to sandwich 
 ![A poor photo showing the inner duck removed from the sandwich. Will post better picture later.](photos/sandwich.jpg)
 
 # How to make your own
-
 
 ![A picture of the CADs showing dimensions](photos/cadlabels.png)
 
